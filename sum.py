@@ -1,1 +1,3 @@
-3+5
+print("Hello buddies")
+print()
+print(9+6)
